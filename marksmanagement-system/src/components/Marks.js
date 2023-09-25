@@ -54,7 +54,7 @@ else {
                            <br></br>
                             <tr><td style={{width:"180px",color:"white"}}>Name:</td> <td style={{color:"white"}}>{obj.login}</td></tr>
                             <br></br>
-                            <tr><td style={{width:"180px",color:"white"}}>Profile Photo:</td> <td><img src={obj.avatar_url} style={{width:"150px", height:"100px"}} /></td></tr> 
+                            <tr><td style={{width:"180px",color:"white"}}>Profile Photo:</td> <td><img src={obj.avatar_url} style={{width:"150px", height:"100px"}} alt=" " /></td></tr> 
                             <br></br>
                             <tr><td style={{width:"180px",color:"white"}}>DAA:</td> <td style={{color:"white"}}>{obj.DAA}</td></tr>
                             <br></br>
