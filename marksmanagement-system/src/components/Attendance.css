@@ -1,0 +1,18 @@
+table{
+    border-spacing:100px;
+}
+td,th{
+    padding:32px;
+}
+.head{
+    
+   
+  background-color: aqua;
+    
+}
+mark{
+    color: crimson;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 20px;
+}

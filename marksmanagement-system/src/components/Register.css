@@ -1,0 +1,15 @@
+.forms{
+  margin-top:50px;
+  margin-right:500px;
+  margin-left:500px;
+  margin-bottom: 30%;
+  border:2px solid ;
+  background-color:aliceblue;
+}
+.registerbody{
+  background: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 4;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKkblcfjFYAuRLDjdwkxV4GQc-qk5LjSvvpg&usqp=CAU");
+}
