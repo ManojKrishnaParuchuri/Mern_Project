@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fae4078c.css",
+    "main.js": "/static/js/main.37f88b14.js",
+    "static/js/787.d1fa92a8.chunk.js": "/static/js/787.d1fa92a8.chunk.js",
+    "static/media/th.jpg.jpg": "/static/media/th.jpg.2e42d72d4b9c47f87d08.jpg",
+    "static/media/attend.svg": "/static/media/attend.bbe382e96dffdb5a14778e6baa30c1e9.svg",
+    "static/media/feedback.svg": "/static/media/feedback.4be250d9eff8a1b42ec780db6af473f4.svg",
+    "static/media/book.svg": "/static/media/book.d0818958c1781effdf31a05a83eeaf15.svg",
+    "index.html": "/index.html",
+    "static/media/graduation-cap.svg": "/static/media/graduation-cap.7141c606f1514ca5f1d2daf1d7f94315.svg",
+    "static/media/home.svg": "/static/media/home.e708450d103297a9f0c1fc3f64edeecc.svg",
+    "main.fae4078c.css.map": "/static/css/main.fae4078c.css.map",
+    "main.37f88b14.js.map": "/static/js/main.37f88b14.js.map",
+    "787.d1fa92a8.chunk.js.map": "/static/js/787.d1fa92a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae4078c.css",
+    "static/js/main.37f88b14.js"
+  ]
+}
